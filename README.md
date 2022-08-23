@@ -1,2 +1,2 @@
-# scrapy_pages
-Alguns testes e exemplos de web scraping usando Scrapy
+# Web Scraping
+Alguns testes e exemplos de web scraping usando Scrapy para baixar textos e tabelas
