@@ -2,7 +2,7 @@ import scrapy
 
 class VarrerTabela(scrapy.Spider):
     # identidade
-    name = 'varrer_tabela_spider'
+    name = 'proxy_spider'
     # Request
     def start_requests(self):
         urls = ['https://www.us-proxy.org/']
